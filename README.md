@@ -99,3 +99,12 @@ Through this project, I practiced:
 ## Author
 
 Created as a personal learning project while developing my Python programming skills.
+
+## About the Developer
+
+I'm a beginner Python developer learning programming through hands-on projects.
+
+I built this Expense Tracker to practice Python, GUI development, data storage, and basic application security.
+
+I'm continuing to improve my programming skills and build more projects.
+
