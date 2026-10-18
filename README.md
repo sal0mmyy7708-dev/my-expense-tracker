@@ -8,6 +8,10 @@ My Expense Tracker is a desktop application developed with Python to help users 
 
 This project was created as part of my journey in learning Python programming and building practical software applications.
 
+## Application Screenshot
+
+![My Expense Tracker Screenshot](Screenshot%202026-10-18%20231024.png)
+
 ## Features
 
 - **Expense Management:** Add, edit, and delete expense records.
@@ -67,7 +71,7 @@ my-expense-tracker/
 
 - Expense and budget data are stored locally in JSON files.
 - Password verification uses password hashing.
-- Local data files should not be committed to the public repository.
+- Local data files should not be committed to a public repository.
 - The `.gitignore` file helps prevent specified local data files from being tracked by Git.
 
 **Important:** Password protection does not encrypt expense or budget JSON files. Keep sensitive data out of the repository.
