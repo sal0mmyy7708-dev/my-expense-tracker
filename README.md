@@ -12,6 +12,8 @@ This project was created as part of my journey in learning Python programming an
 
 ![My Expense Tracker Screenshot](Screenshot%202026-10-18%20231024.png)
 
+![Expense Tracker Charts](Screenshot%202026-10-18%20234759.png)
+
 ## Features
 
 - **Expense Management:** Add, edit, and delete expense records.
